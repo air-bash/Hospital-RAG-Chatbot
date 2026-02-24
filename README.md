@@ -1,2 +1,2 @@
-# Hospital-System-Chatbot
+# Hospital-RAG-Chatbot
 LLM RAG Chatbot With LangChain and Neo4j - RealPython Tutorial
