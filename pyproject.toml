@@ -1,0 +1,12 @@
+[project]
+name = "hospital-rag-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=1.5.5",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.22",
+    "langchain-openai>=1.1.12",
+]
